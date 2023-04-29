@@ -1,5 +1,6 @@
 # ByBit scalping bot
 Bybit scalping using Binance data to check moving averages. Max leverage size is 3x (you can change it in the code). Supports longs and shorts.
+
 ![alt text](https://github.com/snowmanclub/bybit-scalping-bot/blob/main/example.png?raw=true)
 
 ## Setup
