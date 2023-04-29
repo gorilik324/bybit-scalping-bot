@@ -23,6 +23,7 @@ Install libraries:
 <code>pip install colorama</code>
 
 To launch bot:
+
 <code>python bot.py</code>
 
 ## Disclaimer
