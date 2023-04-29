@@ -1,9 +1,6 @@
 # ByBit scalping bot
-Bybit scalping using Binance data to check moving averages.
-
-[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/snowmanclub/bybit-scalping-bot/archive/refs/heads/main.zip)
-![image](https://user-images.githubusercontent.com/81808867/198848493-ef94a711-b3e0-4789-bbc2-ce3e11236c63.png)
-Max leverage size is 3x (you can change it in the code). Supports longs and shorts.
+Bybit scalping using Binance data to check moving averages. Max leverage size is 3x (you can change it in the code). Supports longs and shorts.
+![alt text](https://github.com/snowmanclub/bybit-scalping-bot/blob/main/example.png?raw=true)
 
 ## Setup
 First create ByBit and Binance API keys if you dot have it. Edit <code>config.py</code> file.
